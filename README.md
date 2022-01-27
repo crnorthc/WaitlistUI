@@ -34,9 +34,10 @@ module.exports = {
 ```
 4. Install Redux
 ```
-npm install redux redux-devtools-extension redux-thunk react-redux
+npm install redux redux-devtools-extension redux-thunk react-redux axios
 ```
 5. Configure Redux
+
 &nbsp;&nbsp;&nbsp;&nbsp;Create Folders/Files
 ```
 /store
