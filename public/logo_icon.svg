@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 99.999998 99.999999"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="logo_icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="0.78741022"
+     inkscape:cx="515.61434"
+     inkscape:cy="309.8766"
+     inkscape:window-width="1819"
+     inkscape:window-height="852"
+     inkscape:window-x="1797"
+     inkscape:window-y="113"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-16.029089,-71.792198)">
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#075985;fill-opacity:1;fill-rule:evenodd;stroke-width:0.17699;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect934"
+       width="100"
+       height="100"
+       x="16.029089"
+       y="71.792198"
+       ry="16.216522" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.1429px;line-height:1.25;font-family:Kodchasan;-inkscape-font-specification:'Kodchasan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.443453"
+       x="30.269072"
+       y="150.27249"
+       id="text15521-7"><tspan
+         sodipodi:role="line"
+         id="tspan15519-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.1429px;font-family:Kodchasan;-inkscape-font-specification:'Kodchasan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.443453"
+         x="30.269072"
+         y="150.27249">Q</tspan></text>
+  </g>
+</svg>
